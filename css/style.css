@@ -6,6 +6,9 @@
     font-size: 16px;
     background-color: whitesmoke;
 }
+#color{
+    color: black;
+}
 #contenido{
     display: flex;
     flex-direction: column;
@@ -24,7 +27,7 @@
 
 h1{
     font-size: 58px; 
-    color:#873439; 
+    color: #232C50; 
     margin-bottom: 30px;
     font-weight: bold;
     justify-content: center;

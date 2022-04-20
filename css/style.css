@@ -6,6 +6,13 @@
     font-size: 16px;
     background-color: whitesmoke;
 }
+#contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .imagenes {
     max-width: 100%;
     height: auto;
@@ -17,9 +24,11 @@
 
 h1{
     font-size: 58px; 
-    color: #232C50; 
+    color:#873439; 
     margin-bottom: 30px;
     font-weight: bold;
+    justify-content: center;
+    align-items: center;
 }
 
 h2{
